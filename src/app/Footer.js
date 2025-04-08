@@ -17,6 +17,11 @@ const Footer = () => {
           them.
         </h4>
       </div>
+            <div className="flex md:justify-normal justify-center md:items-start items-center">
+        <h4 className="text-[#b0b0b0] md:text-sm text-xs text-start __className_dee427 font-medium">
+          © 2025 BaraeMatrane All Rights Reserved.
+        </h4>
+      </div>
       <div className="space-y-6">
         <div className="space-y-2">
           <h3 className="text-[#1f3e72] text-center md:text-4xl text-2xl __className_dee427 font-bold">
